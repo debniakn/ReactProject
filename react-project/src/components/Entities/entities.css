@@ -1,0 +1,16 @@
+.mosaic {
+    flex-wrap: wrap !important;
+}
+
+.block {
+    display: block !important;
+}
+
+.mosaicBtn:hover {
+    background: rgb(151, 144, 144);
+    transition: 0.3s;
+}
+.blockBtn:hover {
+    background: rgb(151, 144, 144);
+    transition: 0.3s;
+}
